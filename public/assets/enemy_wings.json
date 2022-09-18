@@ -1,0 +1,115 @@
+{
+	"frames": {
+		"wingMan1": {
+			"frame": {
+				"x": 2,
+				"y": 2,
+				"w": 174,
+				"h": 126
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 174,
+				"h": 126
+			},
+			"sourceSize": {
+				"w": 174,
+				"h": 126
+			}
+		},
+		"wingMan2": {
+			"frame": {
+				"x": 180,
+				"y": 2,
+				"w": 206,
+				"h": 107
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 206,
+				"h": 107
+			},
+			"sourceSize": {
+				"w": 206,
+				"h": 107
+			}
+		},
+		"wingMan3": {
+			"frame": {
+				"x": 390,
+				"y": 2,
+				"w": 216,
+				"h": 101
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 216,
+				"h": 101
+			},
+			"sourceSize": {
+				"w": 216,
+				"h": 101
+			}
+		},
+		"wingMan4": {
+			"frame": {
+				"x": 610,
+				"y": 2,
+				"w": 216,
+				"h": 101
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 216,
+				"h": 101
+			},
+			"sourceSize": {
+				"w": 216,
+				"h": 101
+			}
+		},
+		"wingMan5": {
+			"frame": {
+				"x": 830,
+				"y": 2,
+				"w": 182,
+				"h": 123
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 182,
+				"h": 123
+			},
+			"sourceSize": {
+				"w": 182,
+				"h": 123
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1014,
+			"h": 130
+		},
+		"scale": "1"
+	}
+}
