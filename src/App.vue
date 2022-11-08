@@ -11,7 +11,6 @@ const Game = defineAsyncComponent(() => import("./components/Game.vue"));
 let gameStatus = $ref<string>();
 
 function start() {
-  // TODO: figure out why the page scrolls when resizing the window...
   const pageWidth = appPage.scrollWidth;
   appPage.scroll({
     top: 0,
